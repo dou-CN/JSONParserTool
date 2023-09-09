@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JSONParserTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JSONParserTool_jar</output-path>
+    <root id="archive" name="JSONParserTool.jar">
+      <element id="module-output" name="JSONParserTool" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.9.1/gson-2.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/aspectj/aspectjtools/1.7.4/aspectjtools-1.7.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
